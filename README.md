@@ -1,5 +1,6 @@
 A map with openmap api, using vanilla js.
 
+Features:
 - **Geolocation API**: Displays map at current location for workout logging.
 - **Map Interface**: Add workouts via map click.
 - **Workout Details**: Input distance, time, pace, speed, elevation gain.
